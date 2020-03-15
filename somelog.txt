@@ -1,0 +1,60 @@
+[33mcommit 1bafc19a13fc74d63bde9e2c93a9c6c1d5a8accb[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: 97e8bb1 4b139ba
+Author: Sergey Pimenov <siarhei.pimenau@gmail.com>
+Date:   Sun Mar 15 19:14:12 2020 +0300
+
+    Merge branch 'feature'
+
+[33mcommit 4b139ba3407cd2cd4fb9b882d6204f1e7a820e77[m[33m ([m[1;32mfeature[m[33m)[m
+Author: Sergey Pimenov <siarhei.pimenau@gmail.com>
+Date:   Sun Mar 15 19:13:33 2020 +0300
+
+    remove second couplet
+
+[33mcommit 97e8bb1d6b4198fef04b0bceaaebf8f145bc6abb[m
+Author: Sergey Pimenov <siarhei.pimenau@gmail.com>
+Date:   Sun Mar 15 19:12:08 2020 +0300
+
+    master commit
+
+[33mcommit c52da92ab4ef19489128fd6d2bd9d22b158afbcf[m
+Author: Sergey Pimenov <siarhei.pimenau@gmail.com>
+Date:   Sun Mar 15 19:08:18 2020 +0300
+
+    add second coup.
+
+[33mcommit 3f9ac0bc52e544666f229dd3daf1cd21cd0ee931[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Sergey Pimenov <siarhei.pimenau@gmail.com>
+Date:   Sun Mar 15 01:12:29 2020 +0300
+
+    add some content to README.md
+
+[33mcommit db7f7f9aad10ba18b070cc2700cd9dcdbe5bc96b[m
+Author: Sergey Pimenov <siarhei.pimenau@gmail.com>
+Date:   Sun Mar 15 01:11:22 2020 +0300
+
+    changed first letter of every string to uppercase
+
+[33mcommit 88f483c66b1476a2dd169aa89626b46e75d8b0e6[m
+Author: Sergey Pimenov <siarhei.pimenau@gmail.com>
+Date:   Sun Mar 15 01:09:19 2020 +0300
+
+    add two more lines to my song
+
+[33mcommit 6a66f9767ca3fd47199048c7f8c018011287612a[m
+Author: SergeyPimenov <45270939+SergeyPimenov@users.noreply.github.com>
+Date:   Sun Mar 15 00:32:08 2020 +0300
+
+    add two more lines to the song
+
+[33mcommit 5644420513cd6c2c3de42d1119ef8192c5487d50[m
+Author: Sergey Pimenov <siarhei.pimenau@gmail.com>
+Date:   Sun Mar 15 00:28:16 2020 +0300
+
+    add first 2 lines in the song
+
+[33mcommit cf9fbc96d3c6d0c43ceda0522d951ab50ad866e0[m
+Author: SergeyPimenov <45270939+SergeyPimenov@users.noreply.github.com>
+Date:   Sun Mar 15 00:22:50 2020 +0300
+
+    Initial commit
